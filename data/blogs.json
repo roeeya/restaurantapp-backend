@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6214f388d55f848cdbd7c022"
+  },
+  "titre": "bbbb",
+  "description": "bbbb",
+  "image": "b.jpg",
+  "content": "bbbbb",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6214f393d55f848cdbd7c024"
+  },
+  "titre": "cccc",
+  "description": "cccc",
+  "image": "c.jpg",
+  "content": "cccccc",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6214f9e38026c3475bf9beb8"
+  },
+  "titre": "aaaaa",
+  "description": "aaaaaa",
+  "content": "aaaaaa",
+  "image": "1645541859242.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6214fa7d16ea1e91600aab5f"
+  },
+  "titre": "bbbbbbbbbb",
+  "description": "aaaaaa",
+  "content": "aaaaaa",
+  "image": "1645542013103.png",
+  "__v": 0
+}]

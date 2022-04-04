@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "6214fd2d902697765a20dfe0"
+  },
+  "titre": "aaaa",
+  "description": "aaaaa",
+  "prix": 111,
+  "calories": 111,
+  "weight": 111,
+  "img": "1645542701892.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6214fd9b692db8fbf7637736"
+  },
+  "titre": "ccccc",
+  "description": "ccccccc",
+  "prix": 111,
+  "calories": 111,
+  "weight": 111,
+  "img": "1645542811365.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6214fda3692db8fbf7637738"
+  },
+  "titre": "dddd",
+  "description": "dddd",
+  "prix": 111,
+  "calories": 111,
+  "weight": 111,
+  "img": "1645542819746.png",
+  "__v": 0
+}]
